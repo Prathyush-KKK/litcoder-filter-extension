@@ -1,7 +1,19 @@
 # litcoder-filter
 
 > a chrome extension tools built with Vite + React, and Manifest v3
+
 ![img](https://i.postimg.cc/J7TB02c6/image.png)
+
+## Install from release
+
+[Download here](https://github.com/Prathyush-KKK/litcoder-filter-extension/releases/download/release/litcoder-filter-build.zip) and unpack it.
+
+Then install the extension using the following steps:
+1. Start Chrome.
+2. Open the Extension Management page by navigating to `chrome://extensions`.
+3. Enable Developer Mode by clicking the toggle switch next to **Developer mode**.
+4. Click the **Load unpacked** and select the unpacked directory
+
 
 ## Installing
 
